@@ -2,4 +2,7 @@
   display:none;
 }
 
-#wall
+#wall .div{
+  display: none
+  
+}
