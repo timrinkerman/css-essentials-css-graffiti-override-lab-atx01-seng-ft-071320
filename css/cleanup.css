@@ -18,6 +18,6 @@ div#wall div.parent div#tag-5.slick{
   display:none 
 }
 
-div#wall div.parent div:lastchild div#tag-6{
+body div#wall div.parent div:lastchild div#tag-6{
   display:none
 }
